@@ -2,4 +2,4 @@
 ### Homework1
 
 [SelectionSorting](/homework/selection_sorting.pde)
-![Alt homework11](\selection_sorting\selectionsorting.png)
+![Alt homework11](/selection_sorting/selectionsorting.png)

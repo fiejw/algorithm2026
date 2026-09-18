@@ -12,3 +12,8 @@
 [InsertionSorting](/homework/insertionsorting.pde)
 
 <img width="509" height="438" alt="인" src="https://github.com/user-attachments/assets/45273b67-c403-4824-8cd9-0a8b7328a894" />
+
+[MergeSorting](/homework/mergesorting.pde)
+
+<img width="508" height="434" alt="머지" src="https://github.com/user-attachments/assets/3ee5f928-7480-49ad-abef-81e991fe2dea" />
+

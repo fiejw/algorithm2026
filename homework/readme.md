@@ -17,3 +17,6 @@
 
 <img width="508" height="434" alt="머지" src="https://github.com/user-attachments/assets/3ee5f928-7480-49ad-abef-81e991fe2dea" />
 
+[HeapSorting](/homework/heapsorting.pde)
+
+<img width="506" height="436" alt="힙" src="https://github.com/user-attachments/assets/a8e5cb11-8b9f-419a-959b-0dd5e8331458" />

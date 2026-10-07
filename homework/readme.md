@@ -20,3 +20,7 @@
 [HeapSorting](/homework/heapsorting.pde)
 
 <img width="506" height="436" alt="힙" src="https://github.com/user-attachments/assets/a8e5cb11-8b9f-419a-959b-0dd5e8331458" />
+
+[SelectionSortingAnimation](/homework/SelectionSortingAnimation.pde)
+
+<img width="785" height="410" alt="image" src="https://github.com/user-attachments/assets/c3ea294f-5c51-4b9d-a543-2b335aef3fe3" />

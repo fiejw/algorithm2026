@@ -23,4 +23,5 @@
 
 [SelectionSortingAnimation](/homework/SelectionSortingAnimation.pde)
 
-<img width="785" height="410" alt="image" src="https://github.com/user-attachments/assets/c3ea294f-5c51-4b9d-a543-2b335aef3fe3" />
+<img width="1280" height="720" alt="2026-10-07 22-29-48" src="https://github.com/user-attachments/assets/1a238c20-b161-4e6b-ae8c-9b40396d6d63" />
+

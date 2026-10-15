@@ -25,3 +25,5 @@
 
 <img width="1280" height="720" alt="2026-10-07 22-29-48" src="https://github.com/user-attachments/assets/1a238c20-b161-4e6b-ae8c-9b40396d6d63" />
 
+[BinarySearchTree](/homework/BinarySearchTree.pde)
+<img width="2294" height="1286" alt="화면-녹화-중-2026-10-15-114258" src="https://github.com/user-attachments/assets/a6b1c9c8-9f23-4296-9f57-e988d5aa684d" />

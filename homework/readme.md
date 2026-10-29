@@ -27,3 +27,6 @@
 
 [BinarySearchTree](/homework/BinarySearchTree.pde)
 <img width="2294" height="1286" alt="화면-녹화-중-2026-10-15-114258" src="https://github.com/user-attachments/assets/a6b1c9c8-9f23-4296-9f57-e988d5aa684d" />
+
+[infix_to_postfix_calculator](/homework/infix_to_postfix_calculator.pde)
+<img width="1149" height="856" alt="image" src="https://github.com/user-attachments/assets/93c61563-601e-4a7f-9077-9bba93eed80d" />

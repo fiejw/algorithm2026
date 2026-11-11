@@ -30,3 +30,6 @@
 
 [infix_to_postfix_calculator](/homework/infix_to_postfix_calculator.pde)
 <img width="1149" height="856" alt="image" src="https://github.com/user-attachments/assets/93c61563-601e-4a7f-9077-9bba93eed80d" />
+
+[PebblePlacement](/homework/PebblePlacement.pde)
+<img width="991" height="859" alt="image" src="https://github.com/user-attachments/assets/586d7613-0e75-42b5-b578-c63ad571cb23" />

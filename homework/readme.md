@@ -33,3 +33,7 @@
 
 [PebblePlacement](/homework/PebblePlacement.pde)
 <img width="991" height="859" alt="image" src="https://github.com/user-attachments/assets/586d7613-0e75-42b5-b578-c63ad571cb23" />
+
+[BFSandDFS](/homework/BFSandDFS.pde)
+<img width="1852" height="751" alt="image" src="https://github.com/user-attachments/assets/07806a91-e2cd-4bd5-94af-f30af76dd52b" />
+
